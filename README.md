@@ -1,6 +1,6 @@
 # Tugas-individu_APBO_Daycare
 # Analisi Dasar Sistem Daycare
-<br>Sistem informasi daycare yang ideal harus mampu mengelola berbagai data penting terkait anak, orang tua/wali, staf, jadwal, kehadiran, laporan, dan transaksi. Berikut adalah rincian kebutuhannya:
+Sistem informasi daycare yang ideal harus mampu mengelola berbagai data penting terkait anak, orang tua/wali, staf, jadwal, kehadiran, laporan, dan transaksi. Berikut adalah rincian kebutuhannya:
 
 Data Orang Tua/Wali:
 Mengelola informasi lengkap seperti nama, alamat, nomor telepon, email, hubungan dengan anak, dan informasi kontak darurat.<br>
