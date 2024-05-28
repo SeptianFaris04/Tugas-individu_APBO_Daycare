@@ -24,4 +24,5 @@ Orang Tua/Wali: Sebagai pengguna, mereka bertanggung jawab untuk memantau bayi s
 # Erd Daycare
 ![erd daycare](https://github.com/SeptianFaris04/Tugas-individu_APBO_Daycare/assets/167995889/1c8f784d-2fa2-40cc-ac99-00e9c77c5674)
 # Class Diagram
-![class diagram daycare](https://github.com/SeptianFaris04/Tugas-individu_APBO_Daycare/assets/167995889/1b31a295-8c46-4a26-b50c-eeb235793e7b)
+![class diagram daycare](https://github.com/SeptianFaris04/Tugas-individu_APBO_Daycare/assets/167995889/3508e972-641d-47e7-9cc4-3a4b909bffe9)
+
